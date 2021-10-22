@@ -28,13 +28,13 @@ public class sceneloader : MonoBehaviour
     }
     public void LoadHome()
     {
-        StartCoroutine(LoadLevel(0));
+        StartCoroutine(LoadLevel(1));
     }
     public void LoadQuiz(){
-      StartCoroutine(LoadLevel(9));
+      StartCoroutine(LoadLevel(10));
     }
     public void LoadPS(){
-      StartCoroutine(LoadLevel(2));
+      StartCoroutine(LoadLevel(3));
     }
 
     IEnumerator LoadLevel(int levelIndex)

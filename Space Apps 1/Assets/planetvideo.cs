@@ -31,10 +31,10 @@ public class planetvideo : MonoBehaviour
     Invoke("pause", pausetime);
   }
   void Nextlevel(){
-    if(SceneManager.GetActiveScene().buildIndex!=10){
+    if(SceneManager.GetActiveScene().buildIndex!=11){
       sl.LoadNextLevel();
     }
-    if(SceneManager.GetActiveScene().buildIndex == 10){
+    if(SceneManager.GetActiveScene().buildIndex == 11){
       sl.LoadHome();
     }
   }
