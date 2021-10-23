@@ -127,7 +127,7 @@ PlayerSettings:
     16:10: 1
     16:9: 1
     Others: 1
-  bundleVersion: 0.2
+  bundleVersion: 1
   preloadedAssets: []
   metroInputSource: 0
   wsaTransparentSwapchain: 0
@@ -146,7 +146,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Standalone: com.SPACESCOUTS.SCOUTSOFTHEVOID
+    Standalone: com.DotFicGaming.SCOUTSOFTHEVOID
   buildNumber:
     Standalone: 0
     iPhone: 0
@@ -261,7 +261,7 @@ PlayerSettings:
   - m_BuildTarget: 
     m_Icons:
     - serializedVersion: 2
-      m_Icon: {fileID: 2800000, guid: d2618aab68be92d489b693b1560bafbb, type: 3}
+      m_Icon: {fileID: 2800000, guid: 1a254eed678ecf2429f7242fddf97bc4, type: 3}
       m_Width: 128
       m_Height: 128
       m_Kind: 0

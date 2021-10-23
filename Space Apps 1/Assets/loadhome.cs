@@ -6,8 +6,10 @@ using UnityEngine.SceneManagement;
 
 public class loadhome : MonoBehaviour
 {
+    
     public void loadHome()
     {
         SceneManager.LoadScene("Home screen");
     }
+    
 }
